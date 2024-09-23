@@ -1,0 +1,1 @@
+cambie en la carpeta de contacto de index.html a index.php y todos los href que esto implica
