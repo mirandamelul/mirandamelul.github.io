@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Carpeta:
 Se creo un login validado con php
 El index de la pagina principal ahora se encuentra dentro de la carpeta 'home' y la pagina de inicio ahora es el login
@@ -15,3 +16,6 @@ Php:
 -Validacion de formularios en phpmyadmin
 -Se creo una tabla en phpmyadmin para validar el formulario de contacto
 -Se creo una tabla en phpmyadmin para validar el formulario de login
+=======
+cambie en la carpeta de contacto de index.html a index.php y todos los href que esto implica
+>>>>>>> d0a89ff753d5c3f33b7d977fa98a9eb775171d3c
